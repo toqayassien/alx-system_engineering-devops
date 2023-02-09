@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -type d 755
+chmod -R 755 /alx-system_engineering_deveops/

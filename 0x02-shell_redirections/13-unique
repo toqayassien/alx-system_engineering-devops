@@ -1,2 +1,2 @@
 #!/bin/bash
-cat lister |uniq
+sort lister |uniq

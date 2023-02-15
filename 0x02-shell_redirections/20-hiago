@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i C |tr 'c' ' '
+tr 'C,c' ' '
